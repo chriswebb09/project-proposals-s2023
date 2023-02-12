@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project, given it's size and how important it is, has a lot of bugs and issues opened, finding an issue to work on shouldn't be an issue. The complexity of getting a bug fix for open source project at this level still needs to be scoped. Evaluating how feasible a contribution to this project would be. 
 =======
 Lot's of issues and bug fixes needed. The complexity of getting a bug fix for open source project at this level still needs to be scoped. 
@@ -21,3 +22,6 @@ Lot's of issues and bug fixes needed. The complexity of getting a bug fix for op
 =======
 This project, given it's size and how important it is, has a lot of bugs and issues opened, finding an issue to work on shouldn't be an issue. The complexity of getting a bug fix for open source project at this level still needs to be scoped. Evaluating how feasible a contribution to this project would be. 
 >>>>>>> c3db8d6 (add in details to main readme, update the descriptions for flask and swift docs under projects)
+=======
+This project, given it's size and how important it is, has a lot of bugs and issues opened, finding an issue to work on shouldn't be an issue. The complexity of getting a bug fix for open source project at this level still needs to be scoped. Evaluating how feasible a contribution to this project would be. 
+>>>>>>> 9a27685a5e8ebc6f03eadac8e86c2235a184bb7e
